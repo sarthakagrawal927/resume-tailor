@@ -57,10 +57,23 @@
       "Bash(vercel project ls 2>&1 | head -10)",
       "Bash(vercel domains add craftresume.vercel.app 2>&1)",
       "Bash(vercel env rm NEXTAUTH_URL production --yes 2>&1 && echo \"https://craftresume.vercel.app\" | vercel env add NEXTAUTH_URL production 2>&1)",
-      "Bash(find:*)",
-      "WebFetch(domain:sassmaker.com)",
-      "WebFetch(domain:www.sassmaker.com)",
-      "Bash(saasmaker:*)"
+      "Bash(kill:*)",
+      "WebFetch(domain:instantdomainsearch.com)",
+      "WebFetch(domain:www.namecheap.com)",
+      "WebFetch(domain:www.cloudflare.com)",
+      "WebFetch(domain:cfdomainpricing.com)",
+      "WebFetch(domain:pitchmeai.com)",
+      "WebFetch(domain:nodes.inc)",
+      "WebFetch(domain:www.resumefast.io)",
+      "WebFetch(domain:jobsparrow.ai)",
+      "WebFetch(domain:scale.jobs)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:hireboost.blog)",
+      "WebFetch(domain:landthisjob.com)",
+      "WebFetch(domain:www.reztune.com)",
+      "WebFetch(domain:cvnomist.com)",
+      "WebFetch(domain:docs.dodopayments.com)",
+      "WebFetch(domain:resumetailor.ai)"
     ]
   }
 }
